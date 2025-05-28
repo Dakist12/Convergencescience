@@ -1,0 +1,7 @@
+requirements( 
+  tensorflow
+  gradio
+  requests
+  pillow
+  )
+  
