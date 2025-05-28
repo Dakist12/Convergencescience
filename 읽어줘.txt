@@ -6,3 +6,10 @@ requirements(
   )
   
 tensorflow, gradio, requests 라이브러리 요구.
+
+1. Teachable Machine 모델 준비 (.json / .bin)
+> 만들어둔 머신 h5 파일에 모델 넣기.
+2. 필요한 라이브러리 설치(실행할 컴퓨터에, 학교 노트북.)
+3. AI API 구하기
+4. main.py에 코딩하기
+5. 깃에서 완성된 레포지터리 컴퓨터에 다운로드 후 실행 -> 검토, 완성 
