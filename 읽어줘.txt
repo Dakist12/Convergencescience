@@ -5,3 +5,4 @@ requirements(
   pillow
   )
   
+tensorflow, gradio, requests 라이브러리 요구.
